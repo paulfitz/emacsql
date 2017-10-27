@@ -5,6 +5,8 @@ Edit slices of SQL tables in emacs.  Just specify a table and any filters
 you want to apply, and the table will show up in emacs in csv format.
 Any edits you make will be applied back to the original source.
 
+![demo](https://user-images.githubusercontent.com/118367/32087020-e51fb9a6-baa6-11e7-9502-5cfe17959e15.gif)
+
 ## Install
 
 To edit local Sqlite databases, just do:
